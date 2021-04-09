@@ -1,4 +1,4 @@
-![Image of Jay](Jay.jpg | width=100)
+![Image of Jay](./Jay.jpg | width=100)
 ![Image of Bijoy](Bijoy.jpg =100x100)
 ![Image of Zekai](Zekai.jpg =100x100)
 ![Image of Luke](Luke.jpg =100x100)
