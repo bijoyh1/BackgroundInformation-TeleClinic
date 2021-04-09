@@ -1,9 +1,13 @@
 ![Image of Jay](Jay1.jpg)<br/>
+![](Jay.jpg)<br/>
 ![Image of Bijoy](Bijoy1.jpg)<br/>
+![](Bijoy.jpg)<br/>
 ![Image of Zekai](Zekai1.jpg)<br/>
+![](Zekai.jpg)<br/>
 ![Image of Luke](Luke1.jpg)<br/>
+![](Luke.jpg)<br/>
 ![Image of Hao](Hao1.jpg)<br/>
-
+![](Hao.jpg)<br/>
 
 
 
