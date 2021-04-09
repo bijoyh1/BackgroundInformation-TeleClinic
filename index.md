@@ -1,7 +1,5 @@
-<img src="Jay.jpg"width="200" height="400" />
-
-![Image of Jay](Jay1.jpg)
-![](Jay.jpg)<br/>
+![Image of Jay](Jay1.jpg =300x300)
+![](Jay.jpg | width=300)<br/>
 ![Image of Bijoy](Bijoy1.jpg)
 ![](Bijoy.jpg)<br/>
 ![Image of Zekai](Zekai1.jpg)
