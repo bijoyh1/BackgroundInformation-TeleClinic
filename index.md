@@ -1,3 +1,13 @@
+![Image of Jay](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Jay.jpg)
+![Image of Bijoy](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Bijoy.jpg)
+![Image of Zekai](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Zekai.jpg)
+![Image of Luke](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Luke.jpg)
+![Image of Hao](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Hao.jpg)
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
