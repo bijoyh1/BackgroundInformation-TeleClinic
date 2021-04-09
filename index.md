@@ -1,4 +1,6 @@
 Images show here
+![Image](Jay.jpg)
+
 ![Image of Jay](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Jay.jpg)
 ![Image of Bijoy](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Bijoy.jpg)
 ![Image of Zekai](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Zekai.jpg)
