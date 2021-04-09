@@ -1,9 +1,8 @@
-![Image](Jay.jpg)
-![Image of Jay](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Jay.jpg)
-![Image of Bijoy](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Bijoy.jpg)
-![Image of Zekai](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Zekai.jpg)
-![Image of Luke](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Luke.jpg)
-![Image of Hao](https://github.com/bijoyh1/BackgroundInformation-TeleClinic/blob/gh-pages/Hao.jpg)
+![Image of Jay](Jay.jpg)
+![Image of Bijoy](Bijoy.jpg)
+![Image of Zekai](Zekai.jpg)
+![Image of Luke](Luke.jpg)
+![Image of Hao](Hao.jpg)
 
 
 
