@@ -33,7 +33,8 @@
 
     <section class="main-content">
       <p><img src="/BackgroundInformation-TeleClinic/Jay1.jpg" alt="Image of Jay" />
-<img src="/BackgroundInformation-TeleClinic/Jay.jpg" alt="" /><br />
+       
+
 <img src="/BackgroundInformation-TeleClinic/Bijoy1.jpg" alt="Image of Bijoy" />
 <img src="/BackgroundInformation-TeleClinic/Bijoy.jpg" alt="" /><br />
 <img src="/BackgroundInformation-TeleClinic/Zekai1.jpg" alt="Image of Zekai" />
