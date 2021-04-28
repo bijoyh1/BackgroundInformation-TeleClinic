@@ -1,4 +1,4 @@
-![Image of Jay](./CDAY/Jay1.jpg)
+![Image of Jay](./CDAY/JAY.png)
 ![](./CDAY/Jay.jpg)<br/>
 ![Image of Bijoy](./CDAY/Bijoy1.jpg)
 ![](./CDAY/Bijoy.jpg)<br/>
